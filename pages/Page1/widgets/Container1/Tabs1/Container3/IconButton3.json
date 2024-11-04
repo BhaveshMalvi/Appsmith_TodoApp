@@ -1,0 +1,50 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 5,
+  "boxShadow": "none",
+  "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "buttonVariant": "TERTIARY",
+  "dynamicBindingPathList": [
+    {
+      "key": "buttonColor"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicPropertyPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onClick"
+    }
+  ],
+  "iconName": "credit-card",
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "rj06kv597t",
+  "leftColumn": 57,
+  "minWidth": 50,
+  "mobileBottomRow": 6,
+  "mobileLeftColumn": 55,
+  "mobileRightColumn": 59,
+  "mobileTopRow": 2,
+  "needsErrorInfo": false,
+  "onClick": "{{app.editTodo(data.activeTodo, editInput.text)}}",
+  "parentColumnSpace": 8.247940063476562,
+  "parentId": "u80gelmk34",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "hug",
+  "rightColumn": 62,
+  "topRow": 1,
+  "type": "ICON_BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "koguqyidgr",
+  "widgetName": "IconButton3"
+}

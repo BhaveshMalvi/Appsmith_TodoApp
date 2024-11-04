@@ -1,0 +1,24 @@
+{
+  "gitSyncId": "6720b69ef8df644d71cb6998_17c58385-2136-4846-ba7f-c5889293a0c7",
+  "id": "Page1_data",
+  "unpublishedCollection": {
+    "name": "data",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "todos",
+        "value": "undefined"
+      },
+      {
+        "name": "activeTodo",
+        "value": "undefined"
+      },
+      {
+        "name": "dummyTodos",
+        "value": "[{\n  title: ' add todo title 1',\n  completed: true\n}, {\n  title: ' add todo title 2',\n  completed: false\n}, {\n  title: ' add todo title 3',\n  completed: true\n}]"
+      }
+    ]
+  }
+}
